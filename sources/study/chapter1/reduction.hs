@@ -1,0 +1,11 @@
+-- (λx.x)(λy.y)
+-- Reduce this like this
+-- [x:=(λy.y)]
+-- λy.y
+
+-- (λx.x)(λy.y)z
+-- ((λx.x)(λy.y))z
+-- [x:=(λy.y)]z
+-- (λy.y)z
+-- [y:=z]
+-- z
