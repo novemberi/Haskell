@@ -1,14 +1,14 @@
--- f(1) = A
--- f(2) = B
--- f(3) = C
--- {1,2,3} is {A,B,C}. This is valid function.
+-- 𝑓(1) = 𝐴
+-- 𝑓(2) = 𝐵
+-- 𝑓(3) = 𝐶
+-- {1,2,3} is {𝐴,𝐵,𝐶}. This is valid function.
 
--- f(1) = X
--- f(1) = Y
--- f(2) = Z
+-- 𝑓(1) = 𝑋
+-- 𝑓(1) = 𝑌
+-- 𝑓(2) = 𝑍
 -- This is not a valid function.
 
--- f(1) = A
--- f(2) = A
--- f(3) = A
+-- 𝑓(1) = 𝐴
+-- 𝑓(2) = 𝐴
+-- 𝑓(3) = 𝐴
 -- This is valid function. Having the same output for more than one input is valid.
